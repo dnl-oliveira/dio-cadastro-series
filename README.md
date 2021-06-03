@@ -1,2 +1,5 @@
-# dio-cadastro-series
-Cadastro de séries simples, realizado no bootcamp DOTNET Fundamentals
+# Projeto Prático Cadastrdo de Séries em memória
+Projeto prático em C# para Digital Innovation One com o objetivo de treinar conceitos de orientação a objetos.
+
+## Tecnologia
+.NET 5
